@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,50:6A2C70,100:B83280&height=200&section=header&text=Abhishek%20Lellapalli&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=RTL%20Design%20%26%20Verification%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1A1A2E,50:6A2C70,100:B83280&amp;height=200&amp;section=header&amp;text=Abhishek%20Lellapalli&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=RTL%20Design%20%26%20Verification%20Engineer&amp;descAlignY=58&amp;descSize=18" width="100%"/>
 
 <a href="https://github.com/Abhisheklellapalli">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=B83280&center=true&vCenter=true&width=600&lines=RTL+Design+%7C+Functional+Verification;SystemVerilog+%7C+AXI4+%7C+APB+%7C+UVM;Actively+seeking+entry-level+DV+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=B83280&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=RTL+Design+%7C+Functional+Verification;SystemVerilog+%7C+AXI4+%7C+APB+%7C+UVM;Actively+seeking+entry-level+DV+roles" alt="Typing SVG" />
 </a>
 
 ![Profile views](https://komarev.com/ghpvc/?username=Abhisheklellapalli&color=B83280&style=for-the-badge&label=PROFILE+VIEWS)
@@ -12,7 +12,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B83280,100:1A1A2E&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:B83280,100:1A1A2E&amp;height=3&amp;width=100%"/>
 
 ## 🧠 About Me
 
@@ -27,7 +27,7 @@ I'm an aspiring VLSI Design Verification Engineer with hands-on training in RTL 
 > 💬 *"First, solve the problem. Then, write the code."* — John Johnson
 <!-- QUOTE-END -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B83280,100:1A1A2E&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:B83280,100:1A1A2E&amp;height=3&amp;width=100%"/>
 
 ## 🧰 Skills
 
@@ -55,35 +55,35 @@ I'm an aspiring VLSI Design Verification Engineer with hands-on training in RTL 
 
 **Also familiar with:** `UVM` · `Static Timing Analysis (STA)` · `Embedded C (8051/Arduino)` · `Python (scikit-learn)`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B83280,100:1A1A2E&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:B83280,100:1A1A2E&amp;height=3&amp;width=100%"/>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhisheklellapalli&show_icons=true&theme=radical&hide_border=true&bg_color=1A1A2E" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhisheklellapalli&theme=radical&hide_border=true&background=1A1A2E" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhisheklellapalli&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=1A1A2E" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhisheklellapalli&amp;theme=radical&amp;hide_border=true&amp;background=1A1A2E" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisheklellapalli&layout=compact&theme=radical&hide_border=true&bg_color=1A1A2E" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisheklellapalli&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=1A1A2E" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhisheklellapalli&theme=react-dark&hide_border=true&bg_color=1A1A2E" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhisheklellapalli&amp;theme=react-dark&amp;hide_border=true&amp;bg_color=1A1A2E" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B83280,100:1A1A2E&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:B83280,100:1A1A2E&amp;height=3&amp;width=100%"/>
 
 ## 📫 Reach Me
 
 <p align="center">
-<a href="mailto:abhisheklellapalli16@gmail.com"><img src="https://img.shields.io/badge/Email-B83280?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="tel:+917207385881"><img src="https://img.shields.io/badge/Phone-+91%207207385881-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="https://linkedin.com/in/your-linkedin-handle"><img src="https://img.shields.io/badge/LinkedIn-6A2C70?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:abhisheklellapalli16@gmail.com"><img src="https://img.shields.io/badge/Email-B83280?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
+<a href="tel:+917207385881"><img src="https://img.shields.io/badge/Phone-+91%207207385881-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white"/></a>
+<a href="https://linkedin.com/in/your-linkedin-handle"><img src="https://img.shields.io/badge/LinkedIn-6A2C70?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
 </p>
 
 <div align="center">
 <sub>⭐️ Open to entry-level RTL Design / DV Engineer opportunities — feel free to reach out!</sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,50:6A2C70,100:B83280&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1A1A2E,50:6A2C70,100:B83280&amp;height=100&amp;section=footer"/>
