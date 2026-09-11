@@ -7,7 +7,7 @@
 📍 Hyderabad, Telangana, India
 🟢 Actively seeking entry-level **RTL Design** and **Design Verification (DV)** Engineer roles
 
-![Profile views](https://komarev.com/ghpvc/?username=<your-username>&color=blue&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=Abhisheklellapalli&color=blue&style=flat)
 
 ---
 
@@ -25,11 +25,11 @@ I'm looking for opportunities where I can apply and grow my RTL/DV skills on rea
 
 ### 📌 Featured Projects
 
-#### 🔹 [AXI4-to-SRAM Bridge](https://github.com/<your-username>/axi4-to-sram-bridge)
+#### 🔹 [AXI4-to-SRAM Bridge](https://github.com/Abhisheklellapalli/axi4-to-sram-bridge)
 FSM-based AXI4 slave bridge to SRAM, verified with a SystemVerilog testbench using constrained-random stimulus to check protocol compliance and corner cases.
 `Verilog` `SystemVerilog` `AXI4` `FSM Design` `Constrained-Random Verification`
 
-#### 🔹 [AXI Stream FIFO](https://github.com/<your-username>/axi-stream-fifo)
+#### 🔹 [AXI Stream FIFO](https://github.com/Abhisheklellapalli/axi-stream-fifo)
 Parameterized FIFO module (configurable data width/depth) with directed and random-stimulus functional verification, waveform analysis performed in GTKWave.
 `Verilog` `SystemVerilog` `AXI Stream` `GTKWave` `Functional Verification`
 
@@ -50,15 +50,15 @@ Parameterized FIFO module (configurable data width/depth) with directed and rand
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=<your-username>&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhisheklellapalli&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhisheklellapalli&hide_border=true" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisheklellapalli&layout=compact&hide_border=true" />
 </p>
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=<your-username>&theme=react-dark&hide_border=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhisheklellapalli&theme=react-dark&hide_border=true)
 
 ---
 
