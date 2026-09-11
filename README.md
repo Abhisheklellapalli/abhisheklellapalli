@@ -55,32 +55,32 @@ I'm an aspiring VLSI Design Verification Engineer with hands-on training in RTL 
 
 **HDL**
 <br/>
-![Verilog](https://img.shields.io/badge/Verilog-1A1A2E?style=for-the-badge&logoColor=white)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-6A2C70?style=for-the-badge&logoColor=white)
-![VHDL](https://img.shields.io/badge/VHDL-4A148C?style=for-the-badge&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-1A1A2E?style=for-the-badge&amp;logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-6A2C70?style=for-the-badge&amp;logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-4A148C?style=for-the-badge&amp;logoColor=white)
 
 <br/>
 
 **Protocols**
 <br/>
-![AXI4](https://img.shields.io/badge/AXI4-B83280?style=for-the-badge&logoColor=white)
-![AXI4--Lite](https://img.shields.io/badge/AXI4--Lite-B83280?style=for-the-badge&logoColor=white)
-![AXI--Stream](https://img.shields.io/badge/AXI--Stream-B83280?style=for-the-badge&logoColor=white)
-![APB](https://img.shields.io/badge/APB-B83280?style=for-the-badge&logoColor=white)
-![I2C](https://img.shields.io/badge/I2C-B83280?style=for-the-badge&logoColor=white)
-![SPI](https://img.shields.io/badge/SPI-B83280?style=for-the-badge&logoColor=white)
-![UART](https://img.shields.io/badge/UART-B83280?style=for-the-badge&logoColor=white)
+![AXI4](https://img.shields.io/badge/AXI4-B83280?style=for-the-badge&amp;logoColor=white)
+![AXI4--Lite](https://img.shields.io/badge/AXI4--Lite-B83280?style=for-the-badge&amp;logoColor=white)
+![AXI--Stream](https://img.shields.io/badge/AXI--Stream-B83280?style=for-the-badge&amp;logoColor=white)
+![APB](https://img.shields.io/badge/APB-B83280?style=for-the-badge&amp;logoColor=white)
+![I2C](https://img.shields.io/badge/I2C-B83280?style=for-the-badge&amp;logoColor=white)
+![SPI](https://img.shields.io/badge/SPI-B83280?style=for-the-badge&amp;logoColor=white)
+![UART](https://img.shields.io/badge/UART-B83280?style=for-the-badge&amp;logoColor=white)
 
 <br/>
 
 **Tools**
 <br/>
-![ModelSim](https://img.shields.io/badge/ModelSim-6A2C70?style=for-the-badge&logoColor=white)
-![QuestaSim](https://img.shields.io/badge/QuestaSim-6A2C70?style=for-the-badge&logoColor=white)
-![GTKWave](https://img.shields.io/badge/GTKWave-6A2C70?style=for-the-badge&logoColor=white)
-![Xcelium](https://img.shields.io/badge/Cadence%20Xcelium-6A2C70?style=for-the-badge&logoColor=white)
-![Vivado](https://img.shields.io/badge/Vivado-6A2C70?style=for-the-badge&logo=xilinx&logoColor=white)
-![EDA Playground](https://img.shields.io/badge/EDA%20Playground-6A2C70?style=for-the-badge&logoColor=white)
+![ModelSim](https://img.shields.io/badge/ModelSim-6A2C70?style=for-the-badge&amp;logoColor=white)
+![QuestaSim](https://img.shields.io/badge/QuestaSim-6A2C70?style=for-the-badge&amp;logoColor=white)
+![GTKWave](https://img.shields.io/badge/GTKWave-6A2C70?style=for-the-badge&amp;logoColor=white)
+![Xcelium](https://img.shields.io/badge/Cadence%20Xcelium-6A2C70?style=for-the-badge&amp;logoColor=white)
+![Vivado](https://img.shields.io/badge/Vivado-6A2C70?style=for-the-badge&amp;logo=xilinx&amp;logoColor=white)
+![EDA Playground](https://img.shields.io/badge/EDA%20Playground-6A2C70?style=for-the-badge&amp;logoColor=white)
 
 <br/>
 
