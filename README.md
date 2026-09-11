@@ -1,27 +1,73 @@
-# 💫 About Me:
-👋 Hi, I'm Abhishek Lellapalli — an Electronics and Communication Engineering graduate passionate about VLSI Design and Verification.<br>🔧 I work with Verilog, SystemVerilog, and VHDL to design RTL modules, and I verify them using constrained-random testbenches, code/functional coverage, and protocol-level checks.<br>🔌 Protocol experience: AXI4, AXI4-Lite, AXI Stream, APB, I2C, SPI, UART<br>🧪 Simulation & Tools: ModelSim, QuestaSim, GTKWave, Cadence Xcelium, Vivado, EDA Playground<br>📐 I've worked across the front-end VLSI flow — RTL coding, functional simulation, synthesis, and Static Timing Analysis (STA) — during my internship at Technical Hub Pvt. Ltd.<br>🚀 Featured projects:<br>            AXI4 to SRAM Bridge — FSM-based bridge with full read/write channel support and burst transactions, verified with constrained-random SystemVerilog testbenches<br>            AXI Stream FIFO — Parameterized FIFO with configurable width/depth, verified for data integrity and back-pressure handling<br>📍 Based in Hyderabad, India | Open to entry-level RTL Design & DV roles
+# Hi, I'm Abhishek Lellapalli 👋
 
+**RTL Design & Verification Engineer | Digital Design | Functional Verification**
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Abhisheklellapalli) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Abhisheklellapalli) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abhisheklellapalli) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhisheklellapalli16@gmail.com) 
+🎓 B.Tech in Electronics and Communication Engineering
+🛠️ Trained in RTL coding, protocol verification, and self-checking testbench development
+📍 Hyderabad, Telangana, India
+🟢 Actively seeking entry-level **RTL Design** and **Design Verification (DV)** Engineer roles
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Abhisheklellapalli&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Abhisheklellapalli&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Abhisheklellapalli&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Abhisheklellapalli&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Abhisheklellapalli&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Profile views](https://komarev.com/ghpvc/?username=<your-username>&color=blue&style=flat)
 
 ---
 
+### 🧠 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm an aspiring VLSI Design Verification Engineer with hands-on training in RTL design and functional verification. My background includes protocol-level verification (AXI4, APB), self-checking testbench development, and static timing analysis, built through a dedicated Design Verification training program. I'm also comfortable working with embedded systems (8051/Arduino) and have applied Python/ML for a fraud-detection project.
+
+I'm looking for opportunities where I can apply and grow my RTL/DV skills on real silicon-bound projects.
+
+<!-- QUOTE-START -->
+> 💬 *"First, solve the problem. Then, write the code."* — John Johnson
+<!-- QUOTE-END -->
+
+---
+
+### 📌 Featured Projects
+
+#### 🔹 [AXI4-to-SRAM Bridge](https://github.com/<your-username>/axi4-to-sram-bridge)
+FSM-based AXI4 slave bridge to SRAM, verified with a SystemVerilog testbench using constrained-random stimulus to check protocol compliance and corner cases.
+`Verilog` `SystemVerilog` `AXI4` `FSM Design` `Constrained-Random Verification`
+
+#### 🔹 [AXI Stream FIFO](https://github.com/<your-username>/axi-stream-fifo)
+Parameterized FIFO module (configurable data width/depth) with directed and random-stimulus functional verification, waveform analysis performed in GTKWave.
+`Verilog` `SystemVerilog` `AXI Stream` `GTKWave` `Functional Verification`
+
+---
+
+### 🧰 Skills
+
+**HDL:** ![Verilog](https://img.shields.io/badge/-Verilog-blue) ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-blue) ![VHDL](https://img.shields.io/badge/-VHDL-blue)
+
+**Protocols:** ![AXI4](https://img.shields.io/badge/-AXI4-orange) ![AXI4--Lite](https://img.shields.io/badge/-AXI4--Lite-orange) ![AXI--Stream](https://img.shields.io/badge/-AXI--Stream-orange) ![APB](https://img.shields.io/badge/-APB-orange) ![I2C](https://img.shields.io/badge/-I2C-orange) ![SPI](https://img.shields.io/badge/-SPI-orange) ![UART](https://img.shields.io/badge/-UART-orange)
+
+**Tools:** ![ModelSim](https://img.shields.io/badge/-ModelSim-green) ![QuestaSim](https://img.shields.io/badge/-QuestaSim-green) ![GTKWave](https://img.shields.io/badge/-GTKWave-green) ![Xcelium](https://img.shields.io/badge/-Cadence%20Xcelium-green) ![Vivado](https://img.shields.io/badge/-Vivado-green) ![EDA Playground](https://img.shields.io/badge/-EDA%20Playground-green)
+
+**Also familiar with:** UVM · Static Timing Analysis (STA) · Embedded C (8051/Arduino) · Python (scikit-learn)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=<your-username>&hide_border=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&hide_border=true" />
+</p>
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=<your-username>&theme=react-dark&hide_border=true)
+
+---
+
+### 📫 Reach Me
+
+- ✉️ abhisheklellapalli16@gmail.com
+- 📱 +91 7207385881
+- 💼 [LinkedIn](https://linkedin.com/in/<your-linkedin>)
+
+---
+
+<sub>⭐️ Open to entry-level RTL Design / DV Engineer opportunities — feel free to reach out!</sub>
