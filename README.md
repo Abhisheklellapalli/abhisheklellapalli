@@ -7,7 +7,7 @@
 </a>
 
 ![Profile views](https://komarev.com/ghpvc/?username=Abhisheklellapalli&color=0F9D8F&style=for-the-badge&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-linkedin>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhisheklellapalli16@gmail.com)
 
 </div>
@@ -110,7 +110,7 @@ Parameterized FIFO module (configurable data width/depth) with directed and rand
 <p align="center">
 <a href="mailto:abhisheklellapalli16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="tel:+917207385881"><img src="https://img.shields.io/badge/Phone-+91%207207385881-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="https://linkedin.com/in/<your-linkedin>"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/your-linkedin-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <div align="center">
