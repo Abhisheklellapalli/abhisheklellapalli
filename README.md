@@ -44,7 +44,7 @@ FSM-based AXI4 slave bridge to SRAM, verified with a SystemVerilog testbench usi
 ![FSM](https://img.shields.io/badge/FSM%20Design-6D28D9?style=flat-square)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top">;
 
 ### 🔷 [AXI Stream FIFO](https://github.com/Abhisheklellapalli/axi-stream-fifo)
 Parameterized FIFO module (configurable data width/depth) with directed and random-stimulus functional verification, waveform analysis performed in GTKWave.
